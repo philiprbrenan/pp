@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c1">
+  <title>Latest disk drive</title>
+  <conbody>
+    <p>Our new disk drive is better because it is:
+      <ol>
+        <li>Faster</li>
+        <li>Cheaper</li>
+        <li>Smaller</li>
+        <li>Better</li>
+      </ol>
+    </p>
+  </conbody>
+</concept>
